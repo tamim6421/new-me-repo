@@ -86,7 +86,7 @@
 
 .fail_container {
     width: 90%;
-    /* border: 1px solid salmon; */
+    border: 1px solid salmon;
     margin: auto;
     display: flex;
     align-items: center;
@@ -134,7 +134,7 @@
 .plans {
     width: 90%;
     margin: auto;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
 
 .box_logo {
